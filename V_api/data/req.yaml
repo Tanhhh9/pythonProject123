@@ -1,0 +1,6 @@
+查看商品库存: /ybt-backend/open/product/v2/getStockById
+平台商品池接口: /ybt-backend/open/product/queryMySiteProduct
+查询平台商品库存: /ybt-backend/open/product/v2/getStockById
+查询平台商品价格: /ybt-backend/open/product/queryProductPrice
+查询平台供应商: /ybt-backend/open/product/querySupplyList
+查询分类列表: /front-mall-api/open/api/getCateList
